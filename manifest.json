@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "OneTab",
+  "version": "1.0",
+  "description": "Custom Background Image for New Tab",
+  "author": "hello@irfanfadilah.com",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
