@@ -1,6 +1,6 @@
-# OneTab
+# OnePictab
 
-[![OneTab on Chrome Web Store](https://developer.chrome.com/static/docs/webstore/branding/image/iNEddTyWiMfLSwFD6qGq.png)](https://chromewebstore.google.com/detail/onetab/cochoicfmafjgcgghdpbejejogfhcjgb)
+[![OnePictab on Chrome Web Store](https://developer.chrome.com/static/docs/webstore/branding/image/iNEddTyWiMfLSwFD6qGq.png)](https://chromewebstore.google.com/detail/onepictab/cochoicfmafjgcgghdpbejejogfhcjgb)
 
 # Screenshot
 
@@ -8,4 +8,4 @@
 
 # License
 
-See [LICENSE](https://github.com/OneBacklog/OneTab/blob/master/LICENSE) (MIT)
+See [LICENSE](https://github.com/OneBacklog/OnePictab/blob/master/LICENSE) (MIT)
